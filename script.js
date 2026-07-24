@@ -17,7 +17,7 @@ const CONFIG = {
     maps: "https://maps.app.goo.gl/L3Pq1dMVDgY9U5Qv9", 
     youtubeUrl: "https://www.youtube.com/watch?v=9TS5azK5osE",
     textos: {
-        cat1: { t: "QUIÉNES SOMOS", c: "Nacimos con una sola misión: ¡Darte el mejor serpara que disfrutes tu momento! Nos encanta consentirte con nuestras recetas originales, ingredientes frescos y especialidades preparadas al momento. El lugar perfecto para compartir, reír y disfrutar." },
+        cat1: { t: "QUIÉNES SOMOS", c: "Nacimos con una sola misión: ¡Darte el mejor servicio para que disfrutes tu momento! Nos encanta consentirte con nuestras recetas originales, ingredientes frescos y especialidades preparadas al momento. El lugar perfecto para compartir, reír y disfrutar." },
         cat2: { t: "ESTO NOS HACE DIFERENTES", c: "En nuestras sucursales te damos un servicio de la mejor calidad en alimentos, snacks y bebidas, para que tu solo disfrutes tu momento." },
         cat3: { t: "CLIENTES FELICES", c: "Nuestros clientes, tanto locales como los que nos visitan de fuera, nos eligen y recomidan por nuestro gran ambiente, servico, calidad y precio, reconociendo la tradición en cada una de nuestras sucursales" }
     },
